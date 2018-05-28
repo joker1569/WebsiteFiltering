@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Boilerpipe.Net</id>
+    <version>1.2.0</version>
+    <title>Boilerpipe.Net</title>
+    <authors>Rasmus John Pedersen</authors>
+    <owners>Rasmus John Pedersen</owners>
+    <licenseUrl>https://github.com/rasmusjp/boilerpipe.net/raw/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/rasmusjp/boilerpipe.net</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The boilerpipe library provides algorithms to detect and remove the surplus "clutter" (boilerplate, templates) around the main textual content of a web page.
+
+Boilerpipe.Net is a port of the Java boilerpipe library.</description>
+    <summary />
+    <copyright>Copyright © 2014 Rasmus John Pedersen</copyright>
+    <tags>text boilerplate content extraction</tags>
+    <dependencies>
+      <dependency id="HtmlAgilityPack" version="1.4.9" />
+      <dependency id="Sax.Net" version="2.0.2" />
+    </dependencies>
+  </metadata>
+</package>

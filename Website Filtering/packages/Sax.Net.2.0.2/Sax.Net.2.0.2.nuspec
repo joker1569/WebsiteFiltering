@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Sax.Net</id>
+    <version>2.0.2</version>
+    <title>SAX.Net</title>
+    <authors>Rasmus John Pedersen</authors>
+    <owners>Rasmus John Pedersen</owners>
+    <licenseUrl>https://github.com/rasmusjp/sax.net/raw/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/rasmusjp/sax.net</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.NET port of SAX, Simple API for XML. This package provides the core SAX APIs</description>
+    <releaseNotes />
+    <copyright>Copyright © 2014</copyright>
+  </metadata>
+</package>
